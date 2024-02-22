@@ -5,7 +5,7 @@ ACTIVELOOP_TOKEN="YOUR_ACTIVELOOP_TOKEN"
 DATASET_PATH="hub://YOUR_ORG/repository_vector_store"
 
 
-need to install llama-index, python-dotenv, and llama-index-readers-github
+need to install llama-index, python-dotenv, llama-index-readers-github, llama-index-vector-stores-deeplake, deeplake
 '''
 
 import os
